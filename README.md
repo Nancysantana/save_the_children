@@ -1,10 +1,10 @@
-## SAVE THE CHILDREN
+# SAVE THE CHILDREN
 
 ¿Cómo podríamos optimizar el journey de un usuario que desea donar a la organización Save The Children? 
    
 ![captura de pantalla 2018-04-10 a la s 15 35 01](https://user-images.githubusercontent.com/32876098/38582263-d0ec70d6-3cd4-11e8-8888-cde2cf962190.png)
 
-**ELABORADO PARA** SAVE THE CHILDREN MX. 
+## ELABORADO PARA [Laboratoria](http://www.laboratoria.la) 
 
 <hr>
 
